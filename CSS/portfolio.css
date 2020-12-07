@@ -1,0 +1,11 @@
+/* Navigator Bar syling*/
+a.navbar-brand  {
+
+    font-size: 60px;
+    font-style: italic;
+}
+ 
+ .lt-blue {
+    background-color: rgb(97, 168, 209)!important;
+}
+ 

@@ -1,0 +1,17 @@
+/* Navigator Bar syling*/
+a.navbar-brand  {
+
+    font-size: 60px;
+    font-style: italic;
+}
+ 
+ .lt-blue {
+    background-color: rgb(97, 168, 209)!important;
+}
+ 
+.aboutbody {
+    margin-top: 100;
+}
+
+ /* Media Queries*/
+ /* for the 'About Sara Taylor' font size smaller for smaller devices*/
