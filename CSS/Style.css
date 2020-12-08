@@ -9,9 +9,21 @@ a.navbar-brand  {
     background-color: rgb(97, 168, 209)!important;
 }
  
-.aboutbody {
-    margin-top: 100;
+.aboutBody {
+    margin-top: 150!important;
+
 }
+ .headShot {
+     max-width: 30%;
+     ;
+
+ }
+
+ .center {
+     align-items: center;
+ }
+
+
 
  /* Media Queries*/
  /* for the 'About Sara Taylor' font size smaller for smaller devices*/
