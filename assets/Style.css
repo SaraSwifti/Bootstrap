@@ -9,26 +9,19 @@ a.navbar-brand  {
     background-color: rgb(97, 168, 209)!important;
 }
  
-.aboutBody {
-    margin-top: 150!important;
 
-}
- .headShot {
-     max-width: 30%;
-     ;
-
- }
+ 
 
  .center {
      align-items: center;
  }
+ 
 .footer-CV
 {
     height: 40px;
 
     
 }
-
 
 .footer-bottom {
     border-top: 6px solid black;
